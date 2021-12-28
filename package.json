@@ -1,0 +1,15 @@
+{
+  "name": "gpws",
+  "version": "0.1.0",
+  "description": "Return to sender",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Elyxir",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
